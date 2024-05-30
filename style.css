@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+    background-size: cover;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+
+.main{
+    background-color:burlywood;
+    padding-bottom: 20px;
+    border-radius: 30px;
+}
+
+h1 {
+    color :coral;
+    font-size: 100px;
+    text-decoration: underline;
+
+}
+
+.view{
+    font-size: 40px;
+
+}
+
+#message-el{
+    font-style: italic;
+    font-size: 50px;
+    color:blue
+}
+
+button{
+    width:250px;
+    background: rgb(32, 218, 57);
+    font-weight: bolder;
+    border:none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.view2{
+    color:blueviolet;
+
+}
+
